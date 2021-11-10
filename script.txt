@@ -7,3 +7,4 @@ ligne 6
 ligne final 6
 git
 Bonjour Saba 
+bonjour alice
